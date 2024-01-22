@@ -1,1 +1,1 @@
-# Detector-de-emo-o
+# Detector-de-emoções
